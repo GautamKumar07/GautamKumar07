@@ -5,9 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamkumar07&label=Profile%20views&color=0e75b6&style=flat" alt="gautamkumar07" /> </p>
 
+- 🌱 I’m currently learning **Backend**
+
+- 💬 Ask me about **Python**
+
 - 📫 How to reach me **gautamkumarchaudhary@94496@gmail.com**
 
-- 📄 Know about my experiences [https://test-resume.masaischool.com/dashboard/profile/?resumeId=65715d66436c6b8b69f68181&profileId=self&selectedTemplate=TwoColumnMinimal](https://test-resume.masaischool.com/dashboard/profile/?resumeId=65715d66436c6b8b69f68181&profileId=self&selectedTemplate=TwoColumnMinimal)
+- 📄 My resume [https://test-resume.masaischool.com/dashboard/profile/?resumeId=65715d66436c6b8b69f68181&profileId=self&selectedTemplate=TwoColumnMinimal](https://test-resume.masaischool.com/dashboard/profile/?resumeId=65715d66436c6b8b69f68181&profileId=self&selectedTemplate=TwoColumnMinimal)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
